@@ -15,10 +15,10 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
-          - project
+          - phaseclosure
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -29,10 +29,10 @@ sections:
       buttons:
         - name: All
           tag: "*"
-        - name: Deep Learning
+        - name: Permafrost
           tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: InSAR
+          tag: insar
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: "1"
