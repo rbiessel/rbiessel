@@ -114,7 +114,7 @@ sections:
       title: Popular Topics
     design:
       columns: "2"
-    - block: experience
+  - block: experience
     content:
       title: Experience
       # Date format for experience
