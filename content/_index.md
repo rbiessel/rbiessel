@@ -30,7 +30,7 @@ sections:
         - name: All
           tag: "*"
         - name: Permafrost
-          tag: Deep Learning
+          tag: permafrost
         - name: InSAR
           tag: insar
     design:
